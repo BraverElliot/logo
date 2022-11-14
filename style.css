@@ -1,5 +1,5 @@
 :root {
-  --color1: rgb(0, 231, 255);
+  --color1: rgb(15,23,42);
   --color2: rgb(255, 0, 231);
   --back: url(https://cdn2.bulbagarden.net/upload/1/17/Cardback.jpg);
   --charizard1: #fac;
@@ -365,7 +365,7 @@
 
 html, body {
   height: 100%;
-  background-color: #333844;
+  background-color: #0F172A;
   padding: 0;
   z-index: 1;
   transform: translate3d(0, 0, 0.1px);
@@ -373,7 +373,7 @@ html, body {
 
 body {
   color: white;
-  background-color: #333844;
+  background-color: #0F172A;
   font-family: "Heebo", sans-serif;
   text-align: center;
 }
